@@ -31,6 +31,8 @@ Member 3 — Google BigQuery Setup
 - Verified the table schema using SQL queries.
 - Checked total event count, patient cases, activities, and departments.
 
+-  Member 3: BigQuery setup documentation and verification completed.
+
 ## Pending Verification
 The uploaded CSV must be checked against the official dataset
 provided by Member 1 before final submission.
