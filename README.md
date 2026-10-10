@@ -22,6 +22,14 @@ Member 3 — Google BigQuery Setup
 - Patient cases: 1000
 - Unique activities: 8
 - Departments: 4
+- 
+- ## Dataset Source
+- Dataset provided by Member 2.
+
+## Verification Status
+- Uploaded the dataset to Google BigQuery.
+- Verified the table schema using SQL queries.
+- Checked total event count, patient cases, activities, and departments.
 
 ## Pending Verification
 The uploaded CSV must be checked against the official dataset
